@@ -27,7 +27,7 @@ We do not sell, rent, or share your personal information with third parties, exc
 We implement technical and organizational measures to protect your data from unauthorized access, loss, or misuse.  
 
 ### 5. **Your Rights**  
-- You can opt-out of any data collection by uninstalling the app.  
+- You can opt out of any data collection by uninstalling the app.  
 - You can contact us to request deletion of any stored personal data.  
 
 ### 6. **Third-Party Services**  
