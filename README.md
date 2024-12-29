@@ -15,7 +15,7 @@ Effective Date:  23, December 2024
 
 ### 2. **How We Use Your Information**  
 - To provide, maintain, and improve app functionality.  
-- To ensure secure and efficient operation of the app.  
+- To ensure the secure and efficient operation of the app.  
 - To respond to support requests or inquiries.  
 
 ### 3. **Data Sharing**  
