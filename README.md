@@ -28,7 +28,7 @@ We implement technical and organizational measures to protect your data from una
 
 ### 5. **Your Rights**  
 - You can opt out of any data collection by uninstalling the app.  
-- You can contact us to request deletion of any stored personal data.  
+- You can contact us to request the deletion of any personal data that has been stored.  
 
 ### 6. **Third-Party Services**  
 The app may include third-party integrations or links. We are not responsible for the privacy practices of those services.  
