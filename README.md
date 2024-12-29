@@ -1,4 +1,4 @@
-# Privacy Policy for the Arizona Plus app:  
+# Privacy Policy for the Arizona Plus App:  
 
 ---
 
